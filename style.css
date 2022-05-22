@@ -95,8 +95,8 @@ nav ul li a:hover {
     margin-left: 25%;
     height: 75%;
     width: 75%;
-    border-radius: 12px;
-    box-shadow: 5px 5px 7px gray;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px gray;
     transition: transform .5s ease;
 }
 
